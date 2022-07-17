@@ -1,0 +1,19 @@
+Wisdom ESP32 Operating Algorithm 
+
+First, the user has to download the Arduino IDE.
+
+After installing, users have to set the perfenrce from the navigation to this URL: https://dl.espressif.com/id/package_esp32_index.json 
+
+After setting the perefernce, we have to set the 'Ardunio Uno' board from the tools on the navigation bar. And select the Boards Manager to specify the Arduino we want to work on.
+
+So, write ESP32, then install.
+
+After that, you have to connect the ESP32 with your device using the USB.
+
+Then go to tools->'Ardunio Uno' board--> ESP32 Arduino--> WEMOS D1 MINI ESP32.
+
+After connecting ESP32 with your device, navigate to Tools->Port: "COM3" or "COM4" depending on your device.
+
+To confirm that you're connected with ESP32, you have to see the red light. Therefore, go to File->Examples->01.Basics->Blink.
+
+A new window will open. Click on the arrow icon under the navigation bar to run the code.
