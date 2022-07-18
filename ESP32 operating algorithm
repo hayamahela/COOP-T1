@@ -17,3 +17,5 @@ After connecting ESP32 with your device, navigate to Tools->Port: "COM3" or "COM
 To confirm that you're connected with ESP32, you have to see the red light. Therefore, go to File->Examples->01.Basics->Blink.
 
 A new window will open. Click on the arrow icon under the navigation bar to run the code.
+
+by doing so, you will be able to light the red light.
